@@ -2,3 +2,15 @@
 */bin
 */obj
 */publish
+.vs/OCE/DesignTimeBuild/.dtbcache
+.vs/OCE/v16/.suo
+.vs/OCE/v16/Server/sqlite3/db.lock
+*.ide
+*.exe
+*.config
+*.application
+*.manifest
+*.pdb
+*.cache
+*.txt
+*.resources
