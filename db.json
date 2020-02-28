@@ -1,8 +1,11 @@
 {
-  "link": [
+  "posts": [
     {
       "id": 1,
       "title": "Hi there. Nice job! The link is aHR0cHM6Ly9wYXN0ZWJpbi5jb20vbWJBeWpBOGk="
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
